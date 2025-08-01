@@ -56,7 +56,7 @@
 
 * 📧 **Email:** [abdulrahmanismael992@gmail.com](mailto:abdulrahmanismael992@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/abdlrhmanismael](https://linkedin.com/in/abdlrhmanismael)
-* 🐦 **Twitter:** [@abdul\_ismail](https://twitter.com/abdlrhmanismael)
+* 🐦 **Twitter:** [@abdlrhmanismael](https://twitter.com/abdlrhmanismael)
 
 ---
 
