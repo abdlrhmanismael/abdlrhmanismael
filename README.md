@@ -61,5 +61,5 @@
 ---
 
 <div align="center">
-  _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+  "Code is like humor. When you have to explain it, it’s bad."
 </div>
