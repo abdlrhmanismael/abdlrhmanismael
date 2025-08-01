@@ -13,9 +13,10 @@
 
 ## 🔗 Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/abdulrahman-ismail"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg" width="40" alt="LinkedIn" style="margin:0 10px;"/></a>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/abdlrhmanismael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev12m" height="30" width="40" /></a>
+<a href="https://fb.com/abdlrhmanismael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abo.hmeid01" height="30" width="40" /></a>
+</p>
 
 ---
 
