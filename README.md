@@ -4,9 +4,6 @@
 # 👋 Hi, I'm **Abdulrahman Ismael**
 
 **Frontend Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman%20Ismail-blue?logo=linkedin)](https://www.linkedin.com/in/abdlrhmanismael/)
-[![Twitter](https://img.shields.io/badge/Twitter-@abdul_ismail-1ca0f1?logo=twitter)](https://twitter.com/abdlrhmanismael)
 </div>
 
 ---
