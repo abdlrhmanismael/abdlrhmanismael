@@ -1,8 +1,15 @@
 <div align="center">
+  
 # 👋 Hi, I'm **Abdulrahman Ismael**
 
 **Frontend Developer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman%20Ismail-blue?logo=linkedin)](https://linkedin.com/in/abdulrahman-ismail)
+[![Twitter](https://img.shields.io/badge/Twitter-@abdul_ismail-1ca0f1?logo=twitter)](https://twitter.com/abdul_ismail)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)](https://github.com/your-username)
+
 </div>
+
 
 ---
 
