@@ -14,8 +14,8 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/abdlrhmanismael"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" style="margin:0 10px;"/></a>
-  <a href="https://facebook.com/adlrhmanismael"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" alt="Facebook" style="margin:0 10px;"/></a>
+  <a href="https://linkedin.com/in/abdlrhmanismael"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg" width="40" alt="LinkedIn" style="margin:0 10px;"/></a>
+  <a href="https://facebook.com/abdlrhmanismael" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-Abdulrahman-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
