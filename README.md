@@ -49,6 +49,14 @@
 
 ---
 
+## 📊 Most Used Languages & GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlrhmanismael&layout=compact&hide_border=true" alt="Most Used Languages" width="300" style="margin:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdlrhmanismael&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="300" style="margin:10px;"/>
+</div>
+
+---
 ## 📬 Let’s Connect
 
 * 📧 **Email:** [abdulrahmanismael992@gmail.com](mailto:abdulrahmanismael992@gmail.com)
